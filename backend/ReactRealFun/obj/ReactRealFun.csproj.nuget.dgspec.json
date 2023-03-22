@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\RealReactFun\\backend\\ReactRealFun\\ReactRealFun.csproj": {}
+    "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\ReactRealFun\\backend\\ReactRealFun\\ReactRealFun.csproj": {}
   },
   "projects": {
-    "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\RealReactFun\\backend\\ReactRealFun\\ReactRealFun.csproj": {
+    "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\ReactRealFun\\backend\\ReactRealFun\\ReactRealFun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\RealReactFun\\backend\\ReactRealFun\\ReactRealFun.csproj",
+        "projectUniqueName": "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\ReactRealFun\\backend\\ReactRealFun\\ReactRealFun.csproj",
         "projectName": "ReactRealFun",
-        "projectPath": "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\RealReactFun\\backend\\ReactRealFun\\ReactRealFun.csproj",
+        "projectPath": "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\ReactRealFun\\backend\\ReactRealFun\\ReactRealFun.csproj",
         "packagesPath": "C:\\Users\\corba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\RealReactFun\\backend\\ReactRealFun\\obj\\",
+        "outputPath": "C:\\Users\\corba\\Documents\\BYU_6_W23\\IS_413\\ReactRealFun\\backend\\ReactRealFun\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\corba\\AppData\\Roaming\\NuGet\\NuGet.Config",
